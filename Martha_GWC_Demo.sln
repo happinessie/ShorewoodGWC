@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Martha_GWC_Demo", "Martha_GWC_Demo\Martha_GWC_Demo.shproj", "{BFB4ABC7-E7BE-451A-9D5E-7EB306EB09AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Martha_GWC_Demo.iOS", "iOS\Martha_GWC_Demo.iOS.csproj", "{BF8E3778-3798-4D20-B01D-7374BA3C82CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF8E3778-3798-4D20-B01D-7374BA3C82CD}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BF8E3778-3798-4D20-B01D-7374BA3C82CD}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BF8E3778-3798-4D20-B01D-7374BA3C82CD}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BF8E3778-3798-4D20-B01D-7374BA3C82CD}.Release|iPhone.Build.0 = Release|iPhone
+		{BF8E3778-3798-4D20-B01D-7374BA3C82CD}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BF8E3778-3798-4D20-B01D-7374BA3C82CD}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BF8E3778-3798-4D20-B01D-7374BA3C82CD}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BF8E3778-3798-4D20-B01D-7374BA3C82CD}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
