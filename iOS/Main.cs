@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace Martha_GWC_Demo.iOS
+namespace HoosStressed.iOS
 {
     public class Application
     {
