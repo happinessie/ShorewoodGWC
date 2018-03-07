@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>Martha_GWC_Demo</string>
+	<string>HoosStressed</string>
 	<key>CFBundleName</key>
-	<string>Martha_GWC_Demo</string>
+	<string>HoosStressed</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.companyname.Martha-GWC-Demo</string>
+	<string>SHS.HoosStressed</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
